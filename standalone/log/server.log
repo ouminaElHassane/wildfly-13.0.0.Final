@@ -1,0 +1,216 @@
+2023-09-30 15:45:42,149 INFO  [org.jboss.modules] (main) JBoss Modules version 1.8.5.Final
+2023-09-30 15:45:42,846 INFO  [org.jboss.msc] (main) JBoss MSC version 1.4.2.Final
+2023-09-30 15:45:42,870 INFO  [org.jboss.threads] (main) JBoss Threads version 2.3.2.Final
+2023-09-30 15:45:43,121 INFO  [org.jboss.as] (MSC service thread 1-2) WFLYSRV0049: WildFly Full 13.0.0.Final (WildFly Core 5.0.0.Final) starting
+2023-09-30 15:45:43,124 DEBUG [org.jboss.as.config] (MSC service thread 1-2) Configured system properties:
+	awt.toolkit = sun.awt.windows.WToolkit
+	file.encoding = Cp1252
+	file.encoding.pkg = sun.io
+	file.separator = \
+	java.awt.graphicsenv = sun.awt.Win32GraphicsEnvironment
+	java.awt.printerjob = sun.awt.windows.WPrinterJob
+	java.class.path = C:\Users\eoumi\OneDrive\Bureau\WILDFLYFORMATION\wildfly-13.0.0.Final\jboss-modules.jar
+	java.class.version = 52.0
+	java.endorsed.dirs = C:\Program Files\Java\jdk1.8.0_241\jre\lib\endorsed
+	java.ext.dirs = C:\Program Files\Java\jdk1.8.0_241\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext
+	java.home = C:\Program Files\Java\jdk1.8.0_241\jre
+	java.io.tmpdir = C:\Users\eoumi\AppData\Local\Temp\
+	java.library.path = C:\Program Files\Java\jdk1.8.0_241\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files\Amazon\AWSSAMCLI\bin\;C:\ProgramData\chocolatey\bin;C:\HashiCorp\Vagrant\bin;C:\Go\bin;C:\Users\eoumi\OneDrive\Bureau\WILDFLYFORMATION\wildfly-13.0.0.Final\bin;C:\Program Files\Java\jdk1.6.0_45\bin;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files\Amazon\AWSSAMCLI\bin\;C:\ProgramData\chocolatey\bin;C:\HashiCorp\Vagrant\bin;C:\Go\bin;C:\Users\eoumi\AppData\Local\Microsoft\WindowsApps;C:\Users\eoumi\AppData\Roaming\npm;C:\Users\eoumi\go\bin;;.
+	java.net.preferIPv4Stack = true
+	java.runtime.name = Java(TM) SE Runtime Environment
+	java.runtime.version = 1.8.0_241-b07
+	java.specification.name = Java Platform API Specification
+	java.specification.vendor = Oracle Corporation
+	java.specification.version = 1.8
+	java.util.logging.manager = org.jboss.logmanager.LogManager
+	java.vendor = Oracle Corporation
+	java.vendor.url = http://java.oracle.com/
+	java.vendor.url.bug = http://bugreport.sun.com/bugreport/
+	java.version = 1.8.0_241
+	java.vm.info = mixed mode
+	java.vm.name = Java HotSpot(TM) 64-Bit Server VM
+	java.vm.specification.name = Java Virtual Machine Specification
+	java.vm.specification.vendor = Oracle Corporation
+	java.vm.specification.version = 1.8
+	java.vm.vendor = Oracle Corporation
+	java.vm.version = 25.241-b07
+	javax.management.builder.initial = org.jboss.as.jmx.PluggableMBeanServerBuilder
+	jboss.home.dir = C:\Users\eoumi\OneDrive\Bureau\WILDFLYFORMATION\wildfly-13.0.0.Final
+	jboss.host.name = laptop-dntvjcgn
+	jboss.modules.dir = C:\Users\eoumi\OneDrive\Bureau\WILDFLYFORMATION\wildfly-13.0.0.Final\modules
+	jboss.modules.system.pkgs = org.jboss.byteman
+	jboss.node.name = laptop-dntvjcgn
+	jboss.qualified.host.name = laptop-dntvjcgn
+	jboss.server.base.dir = C:\Users\eoumi\OneDrive\Bureau\WILDFLYFORMATION\wildfly-13.0.0.Final\standalone
+	jboss.server.config.dir = C:\Users\eoumi\OneDrive\Bureau\WILDFLYFORMATION\wildfly-13.0.0.Final\standalone\configuration
+	jboss.server.data.dir = C:\Users\eoumi\OneDrive\Bureau\WILDFLYFORMATION\wildfly-13.0.0.Final\standalone\data
+	jboss.server.deploy.dir = C:\Users\eoumi\OneDrive\Bureau\WILDFLYFORMATION\wildfly-13.0.0.Final\standalone\data\content
+	jboss.server.log.dir = C:\Users\eoumi\OneDrive\Bureau\WILDFLYFORMATION\wildfly-13.0.0.Final\standalone\log
+	jboss.server.name = laptop-dntvjcgn
+	jboss.server.persist.config = true
+	jboss.server.temp.dir = C:\Users\eoumi\OneDrive\Bureau\WILDFLYFORMATION\wildfly-13.0.0.Final\standalone\tmp
+	line.separator = 
+
+	logging.configuration = file:C:\Users\eoumi\OneDrive\Bureau\WILDFLYFORMATION\wildfly-13.0.0.Final\standalone\configuration/logging.properties
+	module.path = C:\Users\eoumi\OneDrive\Bureau\WILDFLYFORMATION\wildfly-13.0.0.Final\modules
+	org.jboss.boot.log.file = C:\Users\eoumi\OneDrive\Bureau\WILDFLYFORMATION\wildfly-13.0.0.Final\standalone\log\server.log
+	org.jboss.resolver.warning = true
+	os.arch = amd64
+	os.name = Windows 10
+	os.version = 10.0
+	path.separator = ;
+	program.name = standalone.bat
+	sun.arch.data.model = 64
+	sun.boot.class.path = C:\Program Files\Java\jdk1.8.0_241\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_241\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_241\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_241\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_241\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_241\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_241\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_241\jre\classes
+	sun.boot.library.path = C:\Program Files\Java\jdk1.8.0_241\jre\bin
+	sun.cpu.endian = little
+	sun.cpu.isalist = amd64
+	sun.desktop = windows
+	sun.io.unicode.encoding = UnicodeLittle
+	sun.java.command = C:\Users\eoumi\OneDrive\Bureau\WILDFLYFORMATION\wildfly-13.0.0.Final\jboss-modules.jar -mp C:\Users\eoumi\OneDrive\Bureau\WILDFLYFORMATION\wildfly-13.0.0.Final\modules org.jboss.as.standalone -Djboss.home.dir=C:\Users\eoumi\OneDrive\Bureau\WILDFLYFORMATION\wildfly-13.0.0.Final
+	sun.java.launcher = SUN_STANDARD
+	sun.jnu.encoding = Cp1252
+	sun.management.compiler = HotSpot 64-Bit Tiered Compilers
+	sun.os.patch.level = 
+	sun.stderr.encoding = cp850
+	sun.stdout.encoding = cp850
+	user.country = FR
+	user.dir = C:\Users\eoumi
+	user.home = C:\Users\eoumi
+	user.language = fr
+	user.name = eoumi
+	user.script = 
+	user.timezone = Europe/Paris
+	user.variant = 
+2023-09-30 15:45:43,126 DEBUG [org.jboss.as.config] (MSC service thread 1-2) VM Arguments: -Dprogram.name=standalone.bat -Xms64M -Xmx512M -XX:MetaspaceSize=96M -XX:MaxMetaspaceSize=256m -Djava.net.preferIPv4Stack=true -Djboss.modules.system.pkgs=org.jboss.byteman -Dorg.jboss.boot.log.file=C:\Users\eoumi\OneDrive\Bureau\WILDFLYFORMATION\wildfly-13.0.0.Final\standalone\log\server.log -Dlogging.configuration=file:C:\Users\eoumi\OneDrive\Bureau\WILDFLYFORMATION\wildfly-13.0.0.Final\standalone\configuration/logging.properties 
+2023-09-30 15:45:45,573 INFO  [org.jboss.as.controller.management-deprecated] (Controller Boot Thread) WFLYCTL0028: Attribute 'security-realm' in the resource at address '/core-service=management/management-interface=http-interface' is deprecated, and may be removed in a future version. See the attribute description in the output of the read-resource-description operation to learn more about the deprecation.
+2023-09-30 15:45:45,622 INFO  [org.jboss.as.controller.management-deprecated] (ServerService Thread Pool -- 16) WFLYCTL0028: Attribute 'security-realm' in the resource at address '/subsystem=undertow/server=default-server/https-listener=https' is deprecated, and may be removed in a future version. See the attribute description in the output of the read-resource-description operation to learn more about the deprecation.
+2023-09-30 15:45:45,633 INFO  [org.wildfly.security] (ServerService Thread Pool -- 11) ELY00001: WildFly Elytron version 1.3.3.Final
+2023-09-30 15:45:45,736 INFO  [org.jboss.as.server] (Controller Boot Thread) WFLYSRV0039: Creating http management service using socket-binding (management-http)
+2023-09-30 15:45:45,779 INFO  [org.xnio] (MSC service thread 1-6) XNIO version 3.6.3.Final
+2023-09-30 15:45:45,798 INFO  [org.xnio.nio] (MSC service thread 1-6) XNIO NIO Implementation Version 3.6.3.Final
+2023-09-30 15:45:45,872 INFO  [org.jboss.as.clustering.infinispan] (ServerService Thread Pool -- 45) WFLYCLINF0001: Activating Infinispan subsystem.
+2023-09-30 15:45:45,885 WARN  [org.jboss.as.txn] (ServerService Thread Pool -- 62) WFLYTX0013: The node-identifier attribute on the /subsystem=transactions is set to the default value. This is a danger for environments running multiple servers. Please make sure the attribute value is unique.
+2023-09-30 15:45:45,915 INFO  [org.jboss.as.security] (ServerService Thread Pool -- 60) WFLYSEC0002: Activating Security Subsystem
+2023-09-30 15:45:45,921 INFO  [org.jboss.as.naming] (ServerService Thread Pool -- 54) WFLYNAM0001: Activating Naming Subsystem
+2023-09-30 15:45:45,904 INFO  [org.jboss.as.webservices] (ServerService Thread Pool -- 64) WFLYWS0002: Activating WebServices Extension
+2023-09-30 15:45:45,947 INFO  [org.jboss.as.jsf] (ServerService Thread Pool -- 52) WFLYJSF0007: Activated the following JSF Implementations: [main]
+2023-09-30 15:45:45,953 INFO  [org.jboss.as.jaxrs] (ServerService Thread Pool -- 47) WFLYRS0016: RESTEasy version 3.5.1.Final
+2023-09-30 15:45:46,051 INFO  [org.jboss.as.connector] (MSC service thread 1-2) WFLYJCA0009: Starting JCA Subsystem (WildFly/IronJacamar 1.4.9.Final)
+2023-09-30 15:45:46,059 INFO  [org.jboss.as.security] (MSC service thread 1-8) WFLYSEC0001: Current PicketBox version=5.0.2.Final
+2023-09-30 15:45:46,061 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-7) WFLYUT0003: Undertow 2.0.9.Final starting
+2023-09-30 15:45:46,087 INFO  [org.jboss.as.ee] (ServerService Thread Pool -- 41) WFLYEE0119: The system property 'ee8.preview.mode' is NOT set to 'true'. For provided EE 8 APIs where the EE 8 version of the API differs from what is supported in EE 7, the EE 7 variant of the API will be used. Support for this setting will be removed once all EE 8 APIs are provided and certified.
+2023-09-30 15:45:46,241 INFO  [org.jboss.as.connector.subsystems.datasources] (ServerService Thread Pool -- 38) WFLYJCA0004: Deploying JDBC-compliant driver class org.h2.Driver (version 1.4)
+2023-09-30 15:45:46,308 INFO  [org.jboss.as.connector.deployers.jdbc] (MSC service thread 1-1) WFLYJCA0018: Started Driver service with driver-name = h2
+2023-09-30 15:45:46,495 INFO  [org.jboss.as.naming] (MSC service thread 1-8) WFLYNAM0003: Starting Naming Service
+2023-09-30 15:45:46,507 INFO  [org.jboss.as.mail.extension] (MSC service thread 1-7) WFLYMAIL0001: Bound mail session [java:jboss/mail/Default]
+2023-09-30 15:45:46,623 INFO  [org.wildfly.extension.undertow] (ServerService Thread Pool -- 63) WFLYUT0014: Creating file handler for path 'C:\Users\eoumi\OneDrive\Bureau\WILDFLYFORMATION\wildfly-13.0.0.Final/welcome-content' with options [directory-listing: 'false', follow-symlink: 'false', case-sensitive: 'true', safe-symlink-paths: '[]']
+2023-09-30 15:45:47,147 INFO  [org.wildfly.extension.io] (ServerService Thread Pool -- 46) WFLYIO001: Worker 'default' has auto-configured to 16 core threads with 128 task threads based on your 8 available processors
+2023-09-30 15:45:47,155 INFO  [org.jboss.as.ejb3] (MSC service thread 1-5) WFLYEJB0481: Strict pool slsb-strict-max-pool is using a max instance size of 128 (per class), which is derived from thread worker pool sizing.
+2023-09-30 15:45:47,158 INFO  [org.jboss.as.ejb3] (MSC service thread 1-8) WFLYEJB0482: Strict pool mdb-strict-max-pool is using a max instance size of 32 (per class), which is derived from the number of CPUs on this host.
+2023-09-30 15:45:47,255 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-3) WFLYUT0012: Started server default-server.
+2023-09-30 15:45:47,289 INFO  [org.jboss.remoting] (MSC service thread 1-7) JBoss Remoting version 5.0.7.Final
+2023-09-30 15:45:47,305 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-6) WFLYUT0018: Host default-host starting
+2023-09-30 15:45:47,374 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-3) WFLYUT0006: Undertow HTTP listener default listening on 127.0.0.1:8080
+2023-09-30 15:45:47,436 INFO  [org.jboss.as.patching] (MSC service thread 1-3) WFLYPAT0050: WildFly Full cumulative patch ID is: base, one-off patches include: none
+2023-09-30 15:45:47,444 INFO  [org.jboss.as.ejb3] (MSC service thread 1-4) WFLYEJB0493: EJB subsystem suspension complete
+2023-09-30 15:45:47,476 WARN  [org.jboss.as.domain.management.security] (MSC service thread 1-1) WFLYDM0111: Keystore C:\Users\eoumi\OneDrive\Bureau\WILDFLYFORMATION\wildfly-13.0.0.Final\standalone\configuration\application.keystore not found, it will be auto generated on first use with a self signed certificate for host localhost
+2023-09-30 15:45:47,490 INFO  [org.jboss.as.server.deployment.scanner] (MSC service thread 1-8) WFLYDS0013: Started FileSystemDeploymentService for directory C:\Users\eoumi\OneDrive\Bureau\WILDFLYFORMATION\wildfly-13.0.0.Final\standalone\deployments
+2023-09-30 15:45:47,613 INFO  [org.jboss.as.connector.subsystems.datasources] (MSC service thread 1-4) WFLYJCA0001: Bound data source [java:jboss/datasources/ExampleDS]
+2023-09-30 15:45:48,129 INFO  [org.wildfly.extension.undertow] (MSC service thread 1-1) WFLYUT0006: Undertow HTTPS listener https listening on 127.0.0.1:8443
+2023-09-30 15:45:48,429 INFO  [org.jboss.ws.common.management] (MSC service thread 1-5) JBWS022052: Starting JBossWS 5.2.1.Final (Apache CXF 3.2.4.jbossorg-1) 
+2023-09-30 15:45:48,547 INFO  [org.jboss.as.server] (Controller Boot Thread) WFLYSRV0212: Resuming server
+2023-09-30 15:45:48,551 INFO  [org.jboss.as] (Controller Boot Thread) WFLYSRV0060: Http management interface listening on http://127.0.0.1:9990/management
+2023-09-30 15:45:48,552 INFO  [org.jboss.as] (Controller Boot Thread) WFLYSRV0051: Admin console listening on http://127.0.0.1:9990
+2023-09-30 15:45:48,553 INFO  [org.jboss.as] (Controller Boot Thread) WFLYSRV0025: WildFly Full 13.0.0.Final (WildFly Core 5.0.0.Final) started in 7135ms - Started 290 of 511 services (308 services are lazy, passive or on-demand)
+2023-09-30 21:28:36,365 INFO  [org.jboss.modules] (main) JBoss Modules version 1.8.5.Final
+2023-09-30 21:28:36,932 INFO  [org.jboss.msc] (main) JBoss MSC version 1.4.2.Final
+2023-09-30 21:28:36,947 INFO  [org.jboss.threads] (main) JBoss Threads version 2.3.2.Final
+2023-09-30 21:28:37,116 INFO  [org.jboss.as] (MSC service thread 1-2) WFLYSRV0049: WildFly Full 13.0.0.Final (WildFly Core 5.0.0.Final) starting
+2023-09-30 21:28:37,117 DEBUG [org.jboss.as.config] (MSC service thread 1-2) Configured system properties:
+	awt.toolkit = sun.awt.windows.WToolkit
+	file.encoding = Cp1252
+	file.encoding.pkg = sun.io
+	file.separator = \
+	java.awt.graphicsenv = sun.awt.Win32GraphicsEnvironment
+	java.awt.printerjob = sun.awt.windows.WPrinterJob
+	java.class.path = C:\Users\eoumi\OneDrive\Bureau\WILDFLYFORMATION\wildfly-13.0.0.Final\jboss-modules.jar
+	java.class.version = 52.0
+	java.endorsed.dirs = C:\Program Files\Java\jdk1.8.0_241\jre\lib\endorsed
+	java.ext.dirs = C:\Program Files\Java\jdk1.8.0_241\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext
+	java.home = C:\Program Files\Java\jdk1.8.0_241\jre
+	java.io.tmpdir = C:\Users\eoumi\AppData\Local\Temp\
+	java.library.path = C:\Program Files\Java\jdk1.8.0_241\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\Program Files\Amazon\AWSSAMCLI\bin\;C:\ProgramData\chocolatey\bin;C:\HashiCorp\Vagrant\bin;C:\Go\bin;C:\Users\eoumi\OneDrive\Bureau\WILDFLYFORMATION\wildfly-13.0.0.Final\bin;C:\Program Files\Java\jdk1.6.0_45\bin;C:\Users\eoumi\AppData\Local\Microsoft\WindowsApps;C:\Users\eoumi\AppData\Roaming\npm;C:\Users\eoumi\go\bin;.
+	java.net.preferIPv4Stack = true
+	java.runtime.name = Java(TM) SE Runtime Environment
+	java.runtime.version = 1.8.0_241-b07
+	java.specification.name = Java Platform API Specification
+	java.specification.vendor = Oracle Corporation
+	java.specification.version = 1.8
+	java.util.logging.manager = org.jboss.logmanager.LogManager
+	java.vendor = Oracle Corporation
+	java.vendor.url = http://java.oracle.com/
+	java.vendor.url.bug = http://bugreport.sun.com/bugreport/
+	java.version = 1.8.0_241
+	java.vm.info = mixed mode
+	java.vm.name = Java HotSpot(TM) 64-Bit Server VM
+	java.vm.specification.name = Java Virtual Machine Specification
+	java.vm.specification.vendor = Oracle Corporation
+	java.vm.specification.version = 1.8
+	java.vm.vendor = Oracle Corporation
+	java.vm.version = 25.241-b07
+	javax.management.builder.initial = org.jboss.as.jmx.PluggableMBeanServerBuilder
+	jboss.home.dir = C:\Users\eoumi\OneDrive\Bureau\WILDFLYFORMATION\wildfly-13.0.0.Final
+	jboss.host.name = laptop-dntvjcgn
+	jboss.modules.dir = C:\Users\eoumi\OneDrive\Bureau\WILDFLYFORMATION\wildfly-13.0.0.Final\modules
+	jboss.modules.system.pkgs = org.jboss.byteman
+	jboss.node.name = laptop-dntvjcgn
+	jboss.qualified.host.name = laptop-dntvjcgn
+	jboss.server.base.dir = C:\Users\eoumi\OneDrive\Bureau\WILDFLYFORMATION\wildfly-13.0.0.Final\standalone
+	jboss.server.config.dir = C:\Users\eoumi\OneDrive\Bureau\WILDFLYFORMATION\wildfly-13.0.0.Final\standalone\configuration
+	jboss.server.data.dir = C:\Users\eoumi\OneDrive\Bureau\WILDFLYFORMATION\wildfly-13.0.0.Final\standalone\data
+	jboss.server.deploy.dir = C:\Users\eoumi\OneDrive\Bureau\WILDFLYFORMATION\wildfly-13.0.0.Final\standalone\data\content
+	jboss.server.log.dir = C:\Users\eoumi\OneDrive\Bureau\WILDFLYFORMATION\wildfly-13.0.0.Final\standalone\log
+	jboss.server.name = laptop-dntvjcgn
+	jboss.server.persist.config = true
+	jboss.server.temp.dir = C:\Users\eoumi\OneDrive\Bureau\WILDFLYFORMATION\wildfly-13.0.0.Final\standalone\tmp
+	line.separator = 
+
+	logging.configuration = file:C:\Users\eoumi\OneDrive\Bureau\WILDFLYFORMATION\wildfly-13.0.0.Final\standalone\configuration/logging.properties
+	module.path = C:\Users\eoumi\OneDrive\Bureau\WILDFLYFORMATION\wildfly-13.0.0.Final\modules
+	org.jboss.boot.log.file = C:\Users\eoumi\OneDrive\Bureau\WILDFLYFORMATION\wildfly-13.0.0.Final\standalone\log\server.log
+	org.jboss.resolver.warning = true
+	os.arch = amd64
+	os.name = Windows 10
+	os.version = 10.0
+	path.separator = ;
+	program.name = standalone.bat
+	sun.arch.data.model = 64
+	sun.boot.class.path = C:\Program Files\Java\jdk1.8.0_241\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_241\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_241\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_241\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_241\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_241\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_241\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_241\jre\classes
+	sun.boot.library.path = C:\Program Files\Java\jdk1.8.0_241\jre\bin
+	sun.cpu.endian = little
+	sun.cpu.isalist = amd64
+	sun.desktop = windows
+	sun.io.unicode.encoding = UnicodeLittle
+	sun.java.command = C:\Users\eoumi\OneDrive\Bureau\WILDFLYFORMATION\wildfly-13.0.0.Final\jboss-modules.jar -mp C:\Users\eoumi\OneDrive\Bureau\WILDFLYFORMATION\wildfly-13.0.0.Final\modules org.jboss.as.standalone -Djboss.home.dir=C:\Users\eoumi\OneDrive\Bureau\WILDFLYFORMATION\wildfly-13.0.0.Final
+	sun.java.launcher = SUN_STANDARD
+	sun.jnu.encoding = Cp1252
+	sun.management.compiler = HotSpot 64-Bit Tiered Compilers
+	sun.os.patch.level = 
+	sun.stderr.encoding = cp850
+	sun.stdout.encoding = cp850
+	user.country = FR
+	user.dir = C:\Users\eoumi\OneDrive\Bureau\WILDFLYFORMATION\wildfly-13.0.0.Final\bin
+	user.home = C:\Users\eoumi
+	user.language = fr
+	user.name = eoumi
+	user.script = 
+	user.timezone = Europe/Paris
+	user.variant = 
+2023-09-30 21:28:37,118 DEBUG [org.jboss.as.config] (MSC service thread 1-2) VM Arguments: -Dprogram.name=standalone.bat -Xms64M -Xmx512M -XX:MetaspaceSize=96M -XX:MaxMetaspaceSize=256m -Djava.net.preferIPv4Stack=true -Djboss.modules.system.pkgs=org.jboss.byteman -Dorg.jboss.boot.log.file=C:\Users\eoumi\OneDrive\Bureau\WILDFLYFORMATION\wildfly-13.0.0.Final\standalone\log\server.log -Dlogging.configuration=file:C:\Users\eoumi\OneDrive\Bureau\WILDFLYFORMATION\wildfly-13.0.0.Final\standalone\configuration/logging.properties 
+2023-09-30 21:28:39,061 INFO  [org.jboss.as.controller.management-deprecated] (Controller Boot Thread) WFLYCTL0028: Attribute 'security-realm' in the resource at address '/core-service=management/management-interface=http-interface' is deprecated, and may be removed in a future version. See the attribute description in the output of the read-resource-description operation to learn more about the deprecation.
+2023-09-30 21:28:39,093 INFO  [org.wildfly.security] (ServerService Thread Pool -- 12) ELY00001: WildFly Elytron version 1.3.3.Final
+2023-09-30 21:28:39,094 INFO  [org.jboss.as.controller.management-deprecated] (ServerService Thread Pool -- 17) WFLYCTL0028: Attribute 'security-realm' in the resource at address '/subsystem=undertow/server=default-server/https-listener=https' is deprecated, and may be removed in a future version. See the attribute description in the output of the read-resource-description operation to learn more about the deprecation.
+2023-09-30 21:28:39,177 INFO  [org.jboss.as.server] (Controller Boot Thread) WFLYSRV0039: Creating http management service using socket-binding (management-http)
+2023-09-30 21:28:39,204 INFO  [org.xnio] (MSC service thread 1-4) XNIO version 3.6.3.Final
+2023-09-30 21:28:39,215 INFO  [org.xnio.nio] (MSC service thread 1-4) XNIO NIO Implementation Version 3.6.3.Final
